@@ -6,3 +6,9 @@
 !assignment.c
 !SystemCall-Exercises
 !SystemCall-Exercises/*
+
+# For Process exercises
+!Process-Exercises
+!Process-Exercises/quiz
+!Process-Exercises/quiz/*
+!Process-Exercises/quiz/*/*.c
