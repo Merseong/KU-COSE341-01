@@ -2,4 +2,7 @@
 
 !.gitignore
 
+# For System call exercises
 !assignment.c
+!SystemCall-Exercises
+!SystemCall-Exercises/*
