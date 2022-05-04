@@ -1,0 +1,5 @@
+
+!assignment
+!assignment/*
+!assignment/*/*.c
+!assignment/*/*.sh

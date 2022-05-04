@@ -1,22 +1,7 @@
 *
 
-!.gitignore
+!README
+!*/.gitignore
 
-# For System call exercises
-!assignment.c
-!SystemCall-Exercises
-!SystemCall-Exercises/*
-
-# For Process exercises
-!Process-Exercises
-!Process-Exercises/quiz
-!Process-Exercises/quiz/*
-!Process-Exercises/quiz/*/*.c
-!Process-Exercises/LICENSE
-
-# For Threads exercises
-!Threads-Exercises
-!Threads-Exercises/quiz
-!Threads-Exercises/quiz/*
-!Threads-Exercises/quiz/*/*.c
-!Threads-Exercises/LICENSE
+!Exercise1
+!Exercise2
