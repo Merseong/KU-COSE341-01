@@ -3,3 +3,4 @@
 !assignment/*
 !assignment/*/*.c
 !assignment/*/*.sh
+!assignment/*/*.h
