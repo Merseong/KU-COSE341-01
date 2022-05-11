@@ -1,0 +1,6 @@
+
+!assignment
+!assignment/*
+
+.vscode
+*.out
