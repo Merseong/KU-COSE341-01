@@ -50,7 +50,7 @@ int* generate_ref_arr(size_t sz, size_t page_max) {
     }
     else // Load Reference String S
     {
-        int ref_str[20] = { 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 7 };
+        int ref_str[20] = { 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1 };
         for (int i = 0; i < 20; ++i)
         {
             ref_arr[i] = ref_str[i];
